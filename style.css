@@ -1,1 +1,30 @@
-// css
+.container {
+    width: 1217px;
+    margin: 0 auto;
+}
+
+.header {
+    background: #aaaacf;
+    min-height: 50px;
+    text-align: center;
+}
+
+.sidebar {
+    background: #aaaaee;
+    float: left;
+    position: relative;
+    width: 180px;
+    min-height: 200px;
+}
+
+.content {
+    background: #aaeeee;
+    min-height: 200px;
+}
+
+.footer {
+    background-color: #ccc;
+    min-height: 50px;
+    padding: 20px;
+    text-align: center;
+}
